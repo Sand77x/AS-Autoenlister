@@ -4,7 +4,7 @@ from helium._impl import sleep
 ID_NUMBER = "ID_NUMBER"
 PASSWORD = "PASSWORD"
 PATIENCE = 300 # time in seconds to wait when site loads before timing out
-ENROLL = True # set true if you're enrolling, false if you're sniping
+ENROLL = False # set true if you're enrolling, false if you're sniping
 
 TIMEOUT = 0.5 # time in seconds to wait after enlistment attempt
 
